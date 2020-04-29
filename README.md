@@ -13,3 +13,5 @@ The project is of a piece of very simple (yet correct) C code. We start from pos
     <p>{{ stu.content | markdownify }}</p>
   </div>
 {% endfor %}
+
+Repo Last updated: {{ site.time }}
