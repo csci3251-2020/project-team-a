@@ -46,4 +46,3 @@ int main()
     printf("%d is 1001 in binary", x);
   return 0;
 }
-gcc code.c -o code; ./code
