@@ -6,7 +6,8 @@ The project is of a piece of very simple (yet correct) C code. We start from pos
 {% highlight c %}
 {% include_relative code.c %}
 {% endhighlight %}
-![](https://github.com/csci3251-2020/project-team-a/workflows/C/C++%CI/badge.svg)
+![](https://github.com/judypan/judytesting3251/workflows/C%2FC++%20CI/badge.svg)
+
 ## Contributors
 
 {% for stu in site.stu %}
