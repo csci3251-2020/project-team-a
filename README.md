@@ -3,6 +3,10 @@
 The project is of a piece of very simple (yet correct) C code. We start from posting issues, creating a project, edit the related documentation, code writing, and finally promotion of our project.
 
 ## Code
+{% highlight c %}
+{% include_relative code.c %}
+{% endhighlight %}
+![](https://github.com/judypan/judytesting3251/workflows/C%2FC++%20CI/badge.svg)
 
 ## Contributors
 
